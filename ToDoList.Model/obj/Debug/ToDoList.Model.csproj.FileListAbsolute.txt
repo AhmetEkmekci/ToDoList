@@ -1,0 +1,6 @@
+C:\Users\Ahmet Ekmek\Documents\Visual Studio 2017\Projects\ToDoList\ToDoList.Model\bin\Debug\ToDoList.Model.dll
+C:\Users\Ahmet Ekmek\Documents\Visual Studio 2017\Projects\ToDoList\ToDoList.Model\bin\Debug\ToDoList.Model.pdb
+C:\Users\Ahmet Ekmek\Documents\Visual Studio 2017\Projects\ToDoList\ToDoList.Model\obj\Debug\ToDoList.Model.csprojResolveAssemblyReference.cache
+C:\Users\Ahmet Ekmek\Documents\Visual Studio 2017\Projects\ToDoList\ToDoList.Model\obj\Debug\ToDoList.Model.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet Ekmek\Documents\Visual Studio 2017\Projects\ToDoList\ToDoList.Model\obj\Debug\ToDoList.Model.dll
+C:\Users\Ahmet Ekmek\Documents\Visual Studio 2017\Projects\ToDoList\ToDoList.Model\obj\Debug\ToDoList.Model.pdb
